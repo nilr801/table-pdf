@@ -1,0 +1,9 @@
+name: table_pdf
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - pip-tools
+  - python=3.10
+  - setuptools
